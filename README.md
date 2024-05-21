@@ -1,4 +1,4 @@
-##AnomaData (Automated Anomaly Detection for Predictive Maintenance)
+AnomaData (Automated Anomaly Detection for Predictive Maintenance)
 Description
 AnomaData is a Streamlit application designed for automated anomaly detection in predictive maintenance tasks. It enables users to explore data, train machine learning models, and make predictions based on input features, streamlining the process of identifying anomalies in maintenance data.
 
